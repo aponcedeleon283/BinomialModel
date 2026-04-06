@@ -1,3 +1,3 @@
-The geometric binomial model simultaneously accounts for the actual dimensions of a canopy with a rectangular prism shape (e.g. vineyards), shadow interactions, multiple beam intersections, scattering and the variable radiative path length through the vegetation.
+The geometric binomial model simultaneously accounts for canopy dimensions, shadow interactions, multiple beam intersections, scattering, the variable radiative path length through vegetation, and diffuse radiation.
 
-The source code for calculating the path length distribution can be downloaded from https://github.com/PlantSimulationLab/pathlengthdistribution. 
+The source code used for calculating the path length distribution can be downloaded from https://github.com/PlantSimulationLab/pathlengthdistribution. 
